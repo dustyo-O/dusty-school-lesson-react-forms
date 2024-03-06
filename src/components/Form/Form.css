@@ -1,0 +1,18 @@
+.Form-Field_error .Form-Control {
+    border-color: crimson;
+}
+
+.Form-Label {
+    display: block;
+}
+
+.Form-Control {
+    padding: 4px 8px;
+
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.Form-Error {
+    color: crimson;
+}
